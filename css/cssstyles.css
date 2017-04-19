@@ -1,0 +1,12 @@
+.post {
+  color: white;
+  background-color: black;
+  margin-bottom: 20px;
+  margin-top: 17px;
+}
+.about{
+  color: red;
+  background-color: lime;
+  border: 7px solid purple;
+  text-decoration: overline;
+}
